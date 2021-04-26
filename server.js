@@ -24,10 +24,10 @@ for (let rank in ranks) {
 
 
 const IDler = {
-  botID: "745273648805445673",
-  botSecret: "agH1QeOg6nKYUdYF_Hp2Z1icgiNoxuyX",
+  botID: "826508857463275542",
+  botSecret: "f-DUSD8PasVEjVp3_ukkHZDZLshJa5f6",
   botCallbackURL: "http://www.ademreyzzcode.tk/",
-  sunucuID: "765222160360144956",
+  sunucuID: "813866348496814120",
   sunucuDavet: "https://discord.gg/wdC62b5",
   kodLogKanalı: "765467086150959106",
   sahipRolü: "765467130963165194",
