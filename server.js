@@ -26,7 +26,7 @@ for (let rank in ranks) {
 const IDler = {
   botID: "745273648805445673",
   botSecret: "agH1QeOg6nKYUdYF_Hp2Z1icgiNoxuyX",
-  botCallbackURL: "https://code-paysim-sitesi.glitch.me/callback",
+  botCallbackURL: "http://www.ademreyzzcode.tk/",
   sunucuID: "765222160360144956",
   sunucuDavet: "https://discord.gg/wdC62b5",
   kodLogKanalı: "765467086150959106",
