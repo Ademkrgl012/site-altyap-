@@ -36,11 +36,11 @@ const IDler = {
   boosterRolü: "",
   kodPaylaşamayacakRoller: ["813883800962465834", "814199875579281428", "827032601239879700", "813880563982270474", "836388855896211486"],
   hazırAltyapılarRolü: "836388855896211486",
-  hazırSistemlerRolü: "",
-  sistemlerrolü: "765467132481241108",
-  elmasKodlarRolü: "765467133102391347",
-  altınKodlarRolü: "765467136456917003",
-  normalKodlarRolü: "765467138285633536"
+  hazırSistemlerRolü: "836389221791039508",
+  sistemlerrolü: "835267576866799636",
+  elmasKodlarRolü: "836389448236269588",
+  altınKodlarRolü: "835268048734126103",
+  normalKodlarRolü: "836389642861019157"
 };
 
 const app = express();
