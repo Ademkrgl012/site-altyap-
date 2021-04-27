@@ -34,7 +34,7 @@ const IDler = {
   adminRolü: "813890887494533120",
   kodPaylaşımcıRolü: "836387535088255018",
   boosterRolü: "",
-  kodPaylaşamayacakRoller: ["813883800962465834", "814199875579281428", "827032601239879700", "813880563982270474", "836388855896211486"],
+  kodPaylaşamayacakRoller: [],
   hazırAltyapılarRolü: "836388855896211486",
   hazırSistemlerRolü: "836389221791039508",
   sistemlerrolü: "835267576866799636",
