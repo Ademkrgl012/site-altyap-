@@ -9,7 +9,6 @@ const bodyParser = require("body-parser");
 const handlebarshelpers = require("handlebars-helpers")();
 const path = require("path");
 const fs = require('fs');
-const rabel = require("process.env.token");
 const passport = require("passport");
 const { Strategy } = require("passport-discord");
 const session = require("express-session");
@@ -19,7 +18,7 @@ const db = (global.db = {});
 
 let ranks = ["normal", "altin", "elmas", "hazir","sistemler", "topluluk", "api"];
 for (let rank in ranks) {
-  db[ranks[rank]] = new bookman(ranks[rank]);
+db[ranks[rank]]=new bookman(ranks[rank]);
 }
 
 const IDler = {
@@ -768,7 +767,7 @@ app.use((req, res) => {
   );
 });
 
-client.login(rabel.rabeltoken);
+client.login(process.env.token);
 
 
 client.on("ready", () => {
